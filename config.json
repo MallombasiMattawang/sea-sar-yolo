@@ -1,0 +1,12 @@
+{
+  "confidence_threshold": 0.45,
+  "conf_crosscheck": 0.35,
+  "imgsz": 640,
+  "device": "cpu",
+  "shoreline_ratio": 0.35,
+  "cooldown_emergency_sec": 3.0,
+  "cooldown_normal_sec": 5.0,
+  "save_snapshot": true,
+  "show_window": true,
+  "output_fps": 25
+}
