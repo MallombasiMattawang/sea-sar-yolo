@@ -52,15 +52,7 @@ video-output/*
 snapshots/*
 !snapshots/.gitkeep
 
-# ==============================================================================
-# ✅ IZINKAN video sample ter-upload (untuk demo & uji coba)
-# ==============================================================================
-!sample/
-!sample/*.mp4
-!sample/*.avi
-!sample/*.mov
-!sample/*.mkv
-!sample/*.webm
+
 
 # ==============================================================================
 # OS files
